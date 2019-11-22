@@ -4,3 +4,5 @@ __pycache__
 run.sh
 *.swp
 docker-compose.yml
+autoapp.py
+.env.example

@@ -8,3 +8,4 @@ log.txt
 *.log
 *.db
 *.swo
+.env

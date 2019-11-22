@@ -1,10 +1,5 @@
 FROM python:3-alpine
 
-ENV FLASK_APP=autoapp.py
-ENV DAPP_SECRET=somesecretbytes
-ENV FLASK_DEBUG=1
-# ENV PYTHONWARNINGS=ignore::DeprecationWarning
-
 COPY requirements.txt /tmp/requirements.txt
 
 RUN set -ex ; \
