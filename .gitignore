@@ -1,0 +1,10 @@
+__pycache__
+.git
+run.bat
+*.swp
+*.pyc
+venv
+log.txt
+*.log
+*.db
+*.swo
